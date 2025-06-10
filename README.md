@@ -1,8 +1,7 @@
 # UnifiedAwareness45-48
 
-# Chapter-45-Pure-Structural-Field
 
-# Chapter 45: Pure Structural Field
+# Chapter-45-Pure-Structural-Field
 
 ## 純粋構造場
 
